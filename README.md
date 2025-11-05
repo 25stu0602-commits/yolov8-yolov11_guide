@@ -1,4 +1,6 @@
 # yolov8-yolov11_guide
+<img width="869" height="362" alt="image" src="https://github.com/user-attachments/assets/ce0795e3-f38c-4361-87de-c383b6bf73c4" />
+
 # YOLOv11 프로젝트
 
 ## YOLOv8 vs YOLOv11 비교
